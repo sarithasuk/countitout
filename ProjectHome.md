@@ -1,0 +1,3 @@
+Count It Out is a sample iPhone app (SDK version 3.0) that is intended to be a demonstration of Core Data as well as some UI controls that Apple doesn't give you out of the box (yet.)
+
+The purpose of the app is to be a generic counting app that is useful for tracking the score of your baseball game (balls, strikes, outs, inning), the # of promo codes you have sent out for your latest and greatest iPhone app, or anything else you do in the day that requires keeping track of a running count or a countdown.
